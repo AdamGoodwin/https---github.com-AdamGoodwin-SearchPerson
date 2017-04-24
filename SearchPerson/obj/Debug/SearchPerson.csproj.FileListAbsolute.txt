@@ -1,0 +1,14 @@
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\SearchPerson.exe.config
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\obj\Debug\SearchPerson.csprojResolveAssemblyReference.cache
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\SearchPerson.exe
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\SearchPerson.pdb
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\EntityFramework.dll
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\SearchPersonDomain.Classes.dll
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\SearchPersonDomain.DataModel.dll
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\SearchPersonDomain.Classes.pdb
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\SearchPersonDomain.DataModel.pdb
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\EntityFramework.xml
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\obj\Debug\SearchPerson.exe
+C:\Users\Adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPerson\obj\Debug\SearchPerson.pdb
