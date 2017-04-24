@@ -1,0 +1,14 @@
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\bin\Debug\SearchPersonDomain.DataModel.dll.config
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\bin\Debug\SearchPersonDomain.DataModel.dll
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\bin\Debug\SearchPersonDomain.DataModel.pdb
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\bin\Debug\EntityFramework.dll
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\bin\Debug\SearchPersonDomain.Classes.dll
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\bin\Debug\SearchPersonDomain.Classes.pdb
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\bin\Debug\EntityFramework.xml
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\obj\Debug\SearchPersonDomain.DataModel.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\obj\Debug\SearchPersonDomain.DataModel.dll
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\obj\Debug\SearchPersonDomain.DataModel.pdb
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\obj\Debug\SearchPersonDomain.DataModel.Migrations.Initial.resources
+c:\users\adam\documents\visual studio 2015\Projects\SearchPersonDomain.Classes\SearchPersonDomain.DataModel\obj\Debug\SearchPersonDomain.DataModel.csproj.GenerateResource.Cache
